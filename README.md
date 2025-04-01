@@ -29,18 +29,22 @@ Once your device is connected to your computer, run `flutter run`. You'll see a 
 
 #### 1. Click to enter the speech assessment interface:
 
-<img src="img/step1.png" alt="SpeechSuper SDK for Flutter app landing page" width="250px">
+<img src="img/step1.png" alt="SpeechSuper Flutter SDK demo - App Landing" width="250px">
 
 #### 2. Initilize:
 
 Enter the `coreType` and `refText`, then click the "Initialize the Engine" button. You will receive a success message.<br>
 
-<img src="img/step2-3.png" alt="SpeechSuper SDK for Flutter app initialization" width="600px">
+<img src="img/step2-3.png" alt="SpeechSuper Flutter SDK demo - Initialization" width="600px">
 
 #### 3. Start and stop recording:
-Click the "Start Evaluation" button to start recording and click the "Stop Evaluation" button to stop recording. The assessment results will be displayed.<br>
+Click the "Start Evaluation" button to start recording and click the "Stop Evaluation" button to stop recording.<br>
 
-<img src="img/step4-5.png" alt="SpeechSuper SDK for Flutter app initialization" width="600px">
+<img src="img/step4-5.png" alt="SpeechSuper Flutter SDK demo - Initialization" width="600px">
+
+#### 4. Check the assessment results
+<img src="img/flutter_demo_result.jpg" alt="SpeechSuper Flutter SDK demo result" width="600px">
+
 
 #### 4. Additional functions:
 
