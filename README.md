@@ -4,11 +4,11 @@
 
 # Getting Started
 
-## Step 1: Download the SpeechSuper SDK for Flutter
+## Step 1: Download the SpeechSuper SDK demo for Flutter
 
-Download the SpeechSuper SDK for Flutter from the following link:
+Download the SpeechSuper SDK demo for Flutter from the following link:
 
-[Download SpeechSuper SDK](https://drive.google.com/file/d/1uZD096SFQoxay9bcOH5KlVvLGFl9SYt6/view?usp=drive_link) 
+[Download SpeechSuper SDK demo](https://drive.google.com/file/d/1xD_oKuCN0P7TfMKE0IlpXuj3gS39BaFS/view?usp=drive_link)
 
 ## Step 2: Setting up the Demo
 
